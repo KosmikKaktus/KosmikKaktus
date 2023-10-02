@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Im KosmikKaktus! Who's just a HS Student who's a full stack developer.
+- 🔭 I’m currently working on a game made entirely of Html5, JS & CSS
+- 🌱 I’m currently learning how to program in PHP
+- 👯 I’m looking to collaborate on nothing, leave me alone!!!!
+- 📫 You can dream about contacting me!
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Boeing first tested their onflight wifi with potatoes. Very wierd I know...
+        .---------. | == |
+      |.-"""""-.| |----|
+      ||       || | == |
+      ||       || |----|
+      |'-.....-'| |::::|
+      `"")---(""` |___.|
+     /:::::::::::\" _  "
+    /:::=======:::\`\`\
+    `"""""""""""""`  '-'
 
-<!--
-**KosmikKaktus/KosmikKaktus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
